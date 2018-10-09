@@ -1,0 +1,2 @@
+className=反射获取成员变量.students
+methodName=show
